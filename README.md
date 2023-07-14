@@ -39,6 +39,6 @@ Read and listen to the online lecture material on the following topics.
 
 * Read the Matplotlib Usage GuideLinks (https://matplotlib.org/stable/tutorials/introductory/usage.html). (stop at "Backends") and execute the sample code in a Jupyter Notebook.  If you are missing any modules, make sure you install them!
 * Read the Pyplot tutorial (https://matplotlib.org/stable/tutorials/introductory/pyplot.html#sphx-glr-tutorials-introductory-pyplot-py) and work through the examples in a Jupyter Notebook
-* Read and work through the Lifecycle of a PlotLinks to an external site.
+* Read and work through the Lifecycle of a Plot(https://matplotlib.org/stable/tutorials/introductory/lifecycle.html)
 * Be aware of the list of Sample Plots in Matplotlib (https://matplotlib.org/stable/gallery/indexLinks) these can be helpful when generating visualizations or drawing images you have not in the past.
 * Read how to Manipulate the DOM in a Jupyter Notebook (https://medium.com/@stallonejacob/d3-in-juypter-notebook-685d6dca75c8) to embed visualizations using D3.js
